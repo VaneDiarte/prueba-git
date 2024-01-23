@@ -1,1 +1,2 @@
 ¡Hola, Mundo como estan?! 
+Estamos aprendiendo git, no es tan complicado como parece en principio >;)
